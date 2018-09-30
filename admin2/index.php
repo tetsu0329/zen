@@ -49,7 +49,7 @@
 </style>
 <body>
 	<!-- !PAGE CONTENT! -->
-	<div style="margin-left:300px;margin-top:43px;">
+	<div class="w3-main" style="margin-left:300px;margin-top:43px;">
 		<div class="container1">
 			<h1 class="title">Dashboard</h1>
 			<div class="container4" style="margin-top: 10px;">
